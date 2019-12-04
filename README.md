@@ -33,7 +33,7 @@ This Visual Search Engine (CBIR) allows users to send a request image in order t
 ## Setting up MongoDB/GridFs
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Go to `scripts/` directory and run toGridFs.py script in order to dump the Thumbnails, the Principal Components and the VP-Tree into GridFs :  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • `python toGridFs.py -td <YOUR_THUMBNAILS_DIRECTORY> -id <YOUR_PC_VPTREE_DIRECTORY>`.  
-**NB** : You can get the Principal Components and the VP-Tree files from Dropbox : `https://www.dropbox.com/s/rni799mkys56zph/pca_df.pkl?dl=0` ``.  
+**NB** : You can get the Principal Components and the VP-Tree files from Dropbox : `https://www.dropbox.com/s/rni799mkys56zph/pca_df.pkl?dl=0` `https://www.dropbox.com/s/dwg0x6csi4cthw3/vptree.pkl?dl=0`.  
 
 
 <a name="StartApp"/>
