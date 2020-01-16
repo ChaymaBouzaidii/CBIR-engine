@@ -45,4 +45,4 @@ To build this app, we followed this main steps:
 
 ## Start the App  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Run `python app/app.py` to start the App.  
-**NB** : The list of query images is static. You can change it by hosting the thumbnails on a Free server `https://fr.imgbb.com/` and specifying the image URL in `img` tag in `app/templates/index.html`.     
+**NB** : The list of query images is static. You can change it by hosting the thumbnails on a <a href="https://fr.imgbb.com/">Free server</a> and specifying the image URL in `img` tag in `app/templates/index.html`.     
