@@ -18,6 +18,7 @@ To build this app, we followed this main steps:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Building feature vectors using `Principal Component Analysis`      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Storing feature vectors and thumbnail images in `MongoDB`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Building a `VP-Tree` to optimize searching time    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Setting an interactive web app using `Flask`   
 
 **NB** : You can get 1M thumbnail images database and corresponding edge histogram descriptors from <a href="http://press.liacs.nl/mirflickr/mirdownload.html">here</a>  
 
